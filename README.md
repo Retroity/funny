@@ -1,9 +1,13 @@
 # funny
-An imaginary Github Repository made by ChatGPT simulating a Linux terminal. This bot even wrote it's own README.
+An imaginary Github Repository made by ChatGPT simulating a Linux terminal, inspired by this article: https://www.engraved.blog/building-a-virtual-machine-inside/ 
 
-I don't know who should be considered responsible, but it's public domain.
+ChatGPT was asked, while simulating a linux terminal, to clone a non-existant GitHub repository by OpenAI called "funny". The files that were within that repository were able to be listed though ls. The contents of each individual file was grabbed through cat.
 
-The README suggests making a pull request with your changes. Please don't actually do that.
+The only file that didn't actually work was MAKE_funny.py. ChatGPT was asked to fix it's own work and it did. It was able to execute these scripts that it had fabricated within itself.
+
+I don't know who owns this, considering that ChatGPT created it, but both myself and ChatGPT agree that this repository is licensed under the Unilicense.
+
+The README suggests making a pull request with your changes. Please don't actually do that. I'm not going to accept it. Maybe use this in a shared server, I don't know.
 
 **It wrote the following README:**
 
