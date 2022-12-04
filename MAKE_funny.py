@@ -14,4 +14,7 @@ def make_funny(file_name):
                 f.write(line)
 
 if __name__ == '__main__':
-    make_funny('funny.txt')
+    if len(sys.argv) > 1:
+        make_funny('funny.txt')
+    else:
+        print("Please provide a string to replace")
